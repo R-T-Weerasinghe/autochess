@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J8";"JST_XH_B10B-XH-A_1x10_P2.50mm_Vertical";1;"Conn_01x10_Female";;;
+2;"J2,J1";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";2;"Conn_01x04";;;
+3;"U2,U1";"IC_DRV8825_STEPPER_MOTOR_DRIVER_CARRIER";2;"DRV8825_STEPPER_MOTOR_DRIVER_CARRIER";;;
+4;"J7";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"Power";;;
+5;"C7";"C_Rect_L7.0mm_W3.5mm_P5.00mm";1;"0.33uF";;;
+6;"C5,C3,C8,C6,C4";"C_Disc_D5.0mm_W2.5mm_P2.50mm";5;"0.1uF";;;
+7;"A1";"Arduino_Nano";1;"Arduino_Nano_v3.x";;;
+8;"U3";"TO-220-3_Vertical";1;"LM7805_TO220";;;
+9;"R2,R6,R4,R5,R1,R8,R3,R7";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";8;"1k";;;
+10;"J3";"JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical";1;"Conn_01x06";;;
+11;"J4";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"LimitA";;;
+12;"SW2,SW1";"SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm";2;"SW_DIP_x03";;;
+13;"J5";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"LimitB";;;
+14;"J6";"JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical";1;"Servo";;;
+15;"C1,C2";"CP_Radial_D6.3mm_P2.50mm";2;"100uF";;;
